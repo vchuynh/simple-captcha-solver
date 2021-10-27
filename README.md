@@ -2,7 +2,7 @@
 This is a command line tool that solves simple alphanumeric captchas using the Tesseract OCR engine.  It takes in an input image and outputs the predicted answer to console.
 
 # Requirements
-* Pyhton 3.x
+* Python 3.x
 * pytesseract
 * PIL
 * cv2
